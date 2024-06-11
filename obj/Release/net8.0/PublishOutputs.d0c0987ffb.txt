@@ -1,0 +1,7 @@
+C:\Users\Marko\Documents\GitHub\MvcFilmovi\obj\Release\net8.0\PubTmp\Out\MvcFilmovi.exe
+C:\Users\Marko\Documents\GitHub\MvcFilmovi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Marko\Documents\GitHub\MvcFilmovi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Marko\Documents\GitHub\MvcFilmovi\obj\Release\net8.0\PubTmp\Out\MvcFilmovi.dll
+C:\Users\Marko\Documents\GitHub\MvcFilmovi\obj\Release\net8.0\PubTmp\Out\MvcFilmovi.deps.json
+C:\Users\Marko\Documents\GitHub\MvcFilmovi\obj\Release\net8.0\PubTmp\Out\MvcFilmovi.runtimeconfig.json
+C:\Users\Marko\Documents\GitHub\MvcFilmovi\obj\Release\net8.0\PubTmp\Out\MvcFilmovi.pdb
