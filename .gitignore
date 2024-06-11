@@ -10,3 +10,13 @@
 /obj/Debug/net8.0
 *.vsidx
 /.vs/MvcFilmovi/FileContentIndex
+*.vsidx
+*.vsidx
+*.vsidx
+*.exe
+*.dll
+*.v2
+*.cache
+/obj
+/obj
+/.vs
