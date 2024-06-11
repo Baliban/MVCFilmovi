@@ -28,3 +28,4 @@ C:\Users\Marko\Documents\GitHub\MvcFilmovi\obj\Debug\net8.0\refint\MvcFilmovi.dl
 C:\Users\Marko\Documents\GitHub\MvcFilmovi\obj\Debug\net8.0\MvcFilmovi.pdb
 C:\Users\Marko\Documents\GitHub\MvcFilmovi\obj\Debug\net8.0\MvcFilmovi.genruntimeconfig.cache
 C:\Users\Marko\Documents\GitHub\MvcFilmovi\obj\Debug\net8.0\ref\MvcFilmovi.dll
+C:\Users\Marko\Documents\GitHub\MvcFilmovi\obj\Debug\net8.0\MvcFilmovi.sourcelink.json
