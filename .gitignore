@@ -3,3 +3,8 @@
 *.pdb
 *.cache
 *.props
+*.exe
+
+*.dll
+/obj/Debug
+/obj/Debug/net8.0
